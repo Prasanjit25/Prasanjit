@@ -1,2 +1,0 @@
-# Prasanjit
-All practice codes
